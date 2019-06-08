@@ -7,4 +7,4 @@ Login page is provided and firebase is used for authentication.
 
 Latest music related news is displayed on the dashboard.
 
-Users can select chatroom based on genre and talk with other people.
+Users can select chatroom based on genre and text with other people.
