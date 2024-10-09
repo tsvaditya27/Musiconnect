@@ -1,5 +1,4 @@
-# Musiconnect (NOT WORKING ANYMORE)
-(WILL UPDATE IN FUTURE)
+# Musiconnect
 Music news and chatrooms
 
 The purpose of the app is to connect people via their music tastes.
